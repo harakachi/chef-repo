@@ -1,6 +1,9 @@
 package "vim" do
   action :install
 end
-package "emacs" do
-  action :install
-end
+#package "git" do
+#  action :install
+#end
+#package "mysql" do
+#  action :install
+#end

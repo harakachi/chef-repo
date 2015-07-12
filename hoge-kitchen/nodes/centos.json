@@ -1,6 +1,5 @@
 {
   "run_list":[
-    "recipe[hoge-cookbook]",
-    "recipe[git]"
+    "recipe[hoge-cookbook]"
   ]
 }
