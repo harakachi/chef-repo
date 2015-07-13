@@ -7,3 +7,4 @@ gem 'serverspec'
 gem 'test-kitchen'
 gem "busser"
 gem "busser-serverspec"
+gem 'kitchen-docker'

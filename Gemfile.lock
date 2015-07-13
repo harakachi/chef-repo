@@ -47,6 +47,8 @@ GEM
     hashie (2.1.2)
     highline (1.7.2)
     ipaddress (0.8.0)
+    kitchen-docker (2.1.0)
+      test-kitchen (>= 1.0.0)
     knife-solo (0.4.2)
       chef (>= 10.12)
       erubis (~> 2.7.0)
@@ -147,6 +149,7 @@ PLATFORMS
 DEPENDENCIES
   busser
   busser-serverspec
+  kitchen-docker
   knife-solo
   librarian-chef (>= 0.0.4)
   serverspec
